@@ -1,3 +1,3 @@
 # Borcella-ecommerce
-borcella shop
-test commit
+
+projet e-commerce de Borcella shopping :bienvenue
